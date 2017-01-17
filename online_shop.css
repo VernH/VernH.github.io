@@ -1,0 +1,144 @@
+header{
+	font-weight: bold;
+}
+
+#main-header{
+	height: 80px;
+}
+
+#header-name{
+	color: white;
+
+}
+
+body{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family:; 
+	background-image:url("pics/digital-smoke.jpg");
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+
+}
+
+/* circle logo */
+.logo{
+	height: 80px;
+	width:	80px;
+	border-radius: 40px;
+	float: left; 
+	margin-right: 10px;
+
+}
+
+/*banner section*/
+#main-image{
+	float: left;
+	width: 700px;
+	height: 300px;
+	}
+
+#bighead{
+	float: auto;
+	width: 300px;
+	height: 300px;
+}
+
+
+#welcome{
+	float: left;
+	width: 70%;
+	font-size: 12;
+	margin: 20px 0px 20px 0px;
+}
+#welcome > header {
+	color: red;
+	font-size: 15px;
+	font-weight: bold;
+	margin: bottom;
+}
+/* Container for Good Games*/
+/*#good-games{
+	float: right;
+	width: 300px;
+	margin: 20px , 0px, 20px, 0px;
+}
+
+#good-games>header{
+	margin-left: 5px;
+	color: green;
+	font-size: 15px
+	font-weight: bold;
+	width: 300px;
+	margin: bottom;
+}
+
+#good-games>li{
+	margin-left: 5px;
+	color: green;
+	font-size: 15px
+	font-weight: bold;
+	width: 300px;
+	margin: bottom;*/
+#banner{
+	
+
+}
+
+.customer-form{
+	margin-left: 100px;
+}
+
+.customer-form input{
+position: right;
+}
+
+.customer-form label{
+	position: right;
+}
+
+/*main*/
+#main{
+	height: 100%;
+	width: 70%;
+	float: left;
+	margin: 0px 0px 3px 0px;
+
+}
+
+#gameer-header{
+	color: green;
+	font-size: 15px;
+	margin: 0px 0px 3px 0px;
+	height: 25px
+}
+
+#header-title{
+	background-color: gray;
+	border-radius: 5px;
+}
+
+.products{
+	width: 25%;
+	float: left;
+	margin: 0px 0px 20px 0px;
+
+}
+
+.product-article{
+	height: 150PX;
+	width: 200PX;
+
+	border-width: 2px;
+	border-style: solid;
+	border-color: blue;
+	margin: 3px 3px 3px 3px;
+	padding: 3px 3px 3px 3px;
+	border-radius: 5px;
+}
+
+.product-article-thumbnail{
+	width: 85px;
+	height: 85px;
+}
