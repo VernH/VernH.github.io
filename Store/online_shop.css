@@ -2,6 +2,7 @@ header{
 	font-weight: bold;
 }
 
+
 #main-header{
 	height: 80px;
 }
@@ -96,6 +97,11 @@ position: right;
 
 .customer-form label{
 	position: right;
+}
+
+#fieldset-form{
+	margin-left: 0px;
+	margin-right: 0px;
 }
 
 /*main*/

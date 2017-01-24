@@ -1,0 +1,34 @@
+/*background for cards*/
+
+body #background-body{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family:; 
+	background-image:url("pics/digital-smoke.jpg");
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+
+}
+
+#memory_board{
+	background: #ccc;
+	border: #999 1px solid;
+	width: 800px;
+	height:540px;
+	padding: 24px;
+	margin:0px auto;
+}
+
+/*set rule to target child divs*/
+#memory_board > div{
+	background: url() no-repeat
+	border:#000 1px solid;
+	width:71px ;
+	float: left;
+	margin:10px;
+	padding: 20px;
+	font-size: 64px;
+	cursor:pointer;
+	text-align:center;
+}
