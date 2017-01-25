@@ -10,7 +10,7 @@ html,
 body {
     width: 100%;
     height: 100%;
-    background-color: black;
+    background-image: url(../img/blackpaper.jpg);
 }
 
 body {
@@ -21,6 +21,7 @@ body {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
+    color: white;
 }
 
 .text-vertical-center h1 {
@@ -167,13 +168,14 @@ hr.small {
 
 .about {
     padding: 50px 0;
+    color: white;
 }
 
 /* Services */
 
 .services {
     padding: 50px 0;
-    background-color: grey;
+    background-image: url(../img/crackedglass.jpg);
 }
 
 .service-item {
@@ -198,6 +200,7 @@ hr.small {
 
 .portfolio {
     padding: 50px 0;
+    color: purple;
 }
 
 .portfolio-item {
@@ -217,6 +220,7 @@ hr.small {
 
 .call-to-action {
     padding: 50px 0;
+    background-image: url(../img/cityrain.jpg);
 }
 
 .call-to-action .btn {
@@ -243,6 +247,12 @@ hr.small {
 
 footer {
     padding: 100px 0;
+    background-image: url(../img/wetstreet.jpg);
+    background-repeat: no-repeat;
+    background-position: absolute;
+    background-size: 100%;
+    color: red;
+
 }
 
 #to-top {

@@ -1,0 +1,68 @@
+body {
+	background-image: url("img/deskgrain.jpg");
+}
+
+.grid {
+		width: 600px;
+		height: 500px;
+		margin: 0 auto;
+		background-image: url("img/notepad.jpg");
+		background-repeat: no-repeat; 
+		background-size: 100%;
+		padding: 10px 50px 50px 100px;
+		border-radius: 50px;
+		border: 2px solid: brown;
+		box-shadow: 10px 15px 5px black;
+}
+
+.grid h1 {
+	font-family: serif;
+	background-color: silver;
+	font-size: 60px;
+	text-align: center;
+	color: black;
+	padding: 2px 0px;
+	border-radius: 50px;
+}
+
+.grid #question {
+	font-family: sans-serif;
+	font-size: 30px;
+	color: yellow;
+}
+
+.buttons {
+	margin-top: 30px;
+}
+
+#btn0, #btn1, #btn2, #btn3 {
+		background-color: tan;
+		width: 250px;
+		font-size: 20px;
+		color: white;
+		border-radius: 50px;
+		border: 1px solid brown;
+		box-shadow: 10px 15px 5px black;
+		margin: 10px 40px 10px 0px;
+		padding: 10px 10px 10px 10px;
+
+}
+
+#progress {
+	color: black;
+	font-size: 18px;
+	background-color: silver;
+	border-radius: 50px;
+}
+
+
+#btn0:hover, #btn1:hover, #btn2:hover, #btn3:hover {
+	background-color: darkgrey;
+	border-radius: 50px;
+	outline: 0;
+	cursor: pointer;
+}
+
+#btn0:focus, #btn1:focus, #btn2:focus, #btn3:focus {
+	outline: 0;
+}

@@ -1,0 +1,36 @@
+/*background for cards*/
+
+body #background-body{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family:; 
+	background-image:url("pics/digital-smoke.jpg");
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+
+}
+
+.game-selection{
+	
+	padding: 5% 5% 5% 5%;
+
+}
+
+.morph {
+	-webkit-transform: all 0.5s ease;
+	-moz-transform: all 0.5s ease;
+	-o-transform: all 0.5s ease;
+	-ms-transform: all 0.5s ease;
+	transform: all 0.5s ease;
+}
+
+.morph-pic:hover{
+	border-radius: 45%;
+	-webkit-transform: rotate(360deg);
+	-moz-transform: rotate(360deg);
+	-o-transform: rotate(360deg);
+	-ms-transform: rotate(360deg);
+	transform: rotate(360deg);
+}
+
