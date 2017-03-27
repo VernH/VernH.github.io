@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <script type="text/javascript" src="main.js"></script>
+
+  <title>Food Pantry</title>
+</head>
+<body>
+<h2>What Food Do You Need?</h2>
+<hr />
+<div id="choose-food">
+Choose Your Food:
+
+<!-- the id is for js refrencing, the name is for form processing -->
+<select id="slct1" name="slct1" onchange="populate(this.id,'slct2')"> <!-- or onchange="populate(this.one,'slct2')" -->
+	<option value=""></option>
+	<option value="Bread">Bread</option>
+	<option value="Drinks">Drinks</option>
+	<option value="Produce">Produce</option>
+</select>
+</div>
+<hr />
+<div id="choose-pref">
+Choose Your Prefrence:
+<select id="slct2" name="slct2"></select>
+</div>
+<hr />
+	
+</select>
+</body>
+</html>

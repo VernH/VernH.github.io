@@ -1,0 +1,465 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inve",
+				"inventor"
+			],
+			[
+				"elemen",
+				"elementName"
+			],
+			[
+				"d",
+				"double"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"bs",
+				"basefont\tTag"
+			],
+			[
+				"fon",
+				"font-weight"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 251.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Vernv/Desktop/selfwork/todolist"
+	],
+	"file_history":
+	[
+		"/C/Users/Vernv/Desktop/selfwork/todolist/index.html",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/config/assets/production.js",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/config/env/production.js",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/.gitignore",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/style/main.css",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/src/reducers/index.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/src/components/video/search-bar.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/src/components/video/video.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/src/components/video/video-detail.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/src/components/app.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/index.html",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/src/components/nav.js",
+		"/C/Users/Vernv/Desktop/Online_Shop/quiz/quiz.html",
+		"/C/Users/Vernv/Desktop/jslibrary/Js30days/JavaScript30/04 - Array Cardio Day 1/index-START.html",
+		"/C/Users/Vernv/Desktop/jslibrary/Js30days/JavaScript30/05 - Flex Panel Gallery/index-START.html",
+		"/C/Users/Vernv/Desktop/jslibrary/Js30days/JavaScript30/03 - CSS Variables/index-START.html",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/src/components/5_ChildComponentsIntro.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/src/index.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/src/components/4_StateIntro.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/src/components/3_PropsIntro.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/src/components/2_ComponentsIntro.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/src/components/4_TateIntro.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/package.json",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/webpack.config.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/src/components/1_JSXIntro.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/index.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/components/app.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/reducers/index.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/.babelrc",
+		"/C/Users/Vernv/Desktop/BucketListApp/client/.gitignore",
+		"/C/Users/Vernv/Desktop/BucketListApp/server/models/user.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/server/controllers/auth.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/server/package.json",
+		"/C/Users/Vernv/Desktop/BucketListApp/server/services/passport.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/server/router.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/server/index.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/server/config.js",
+		"/C/Users/Vernv/Desktop/BucketListApp/server/.gitignore",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/forums/client/controllers/likebutton.client.controller.js",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/forums/client/views/form-forum.client.view.html",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/core/client/views/home.client.view.html",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/journals/client/views/form-journal.client.view.html",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/journals/client/views/view-journal.client.view.html",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/users/client/views/authentication/authentication.client.view.html",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/users/client/views/authentication/signin.client.view.html",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/node_modules/grunt-protractor-coverage/public/modules/users/views/authentication/signin.client.view.html",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/users/client/views/authentication/signup.client.view.html",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/forums/client/views/view-forum.client.view.html",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/journals/client/views/list-journals.client.view.html",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/forums/client/views/list-forums.client.view.html",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/config/assets/default.js",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/core/client/css/vern.css",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/forums/server/models/forum.server.model.js",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/forums/client/config/forums.client.config.js",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/journals/client/controllers/list-journals.client.controller.js",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/news/client/views/form-news.client.view.html",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/news/server/models/news.server.model.js",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/news/client/views/create-news.view.html",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/news/client/controllers/list-news.client.controller.js",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/news/client/config/news.client.config.js",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/journals/server/models/journal.server.model.js",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/journals/client/config/journals.client.config.js",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/forum/client/views/forum-list.client.view.html",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/forum/client/config/forum.client.config.js",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/forum/client/controllers/forum.client.controller.js",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/modules/forum/client/config/forum.client.routes.js",
+		"/C/Users/Vernv/Desktop/nodeproject/MeanjsApp/.editorconfig",
+		"/C/Users/Vernv/Desktop/mean-js/mean/node_modules/accessibility-developer-tools/test/qunit.css",
+		"/C/Users/Vernv/Desktop/mean-js/mean/node_modules/bower/lib/node_modules/uuid/benchmark/bench.gnu",
+		"/C/Users/Vernv/Desktop/mean-js/mean/modules/users/client/css/users.css",
+		"/C/Users/Vernv/Desktop/mean-js/mean/node_modules/yargs-parser/README.md",
+		"/C/Users/Vernv/Desktop/mean-js/mean/modules/core/client/views/home.client.view.html",
+		"/C/Users/Vernv/Desktop/mean-js/mean/config/env/default.js",
+		"/C/Users/Vernv/Desktop/mean-js/mean/modules/volunteers/client/config/volunteers.client.config.js",
+		"/C/Users/Vernv/Desktop/mean-js/mean/config/assets/default.js",
+		"/C/Users/Vernv/Desktop/mean-js/mean/modules/core/client/img/brand/truthlogo.jpg",
+		"/C/Users/Vernv/Desktop/rest/server.js",
+		"/C/Users/Vernv/Desktop/heroku_workoutlog/WorkoutLogServer​/Procfile",
+		"/C/Users/Vernv/Desktop/workoutlog/client/index.html",
+		"/C/Users/Vernv/Desktop/workoutlog/server/app.js",
+		"/C/Users/Vernv/Desktop/workoutlog/client/workouts/log.js",
+		"/C/Users/Vernv/Desktop/workoutlog/client/workouts/define.js",
+		"/C/Users/Vernv/Desktop/workoutlog/client/user/auth.js",
+		"/C/Users/Vernv/Desktop/workoutlog/client/app.js",
+		"/C/Users/Vernv/Desktop/workoutlog/server/models/definition.js",
+		"/C/Users/Vernv/Desktop/workoutlog/server/routes/log.js",
+		"/C/Users/Vernv/Desktop/workoutlog/server/models/log.js",
+		"/C/Users/Vernv/Desktop/workoutlog/server/routes/definition.js",
+		"/C/Users/Vernv/Desktop/workoutlog/server/middleware/validate-session.js",
+		"/C/Users/Vernv/Desktop/workoutlog/server/middleware/header.js",
+		"/C/Users/Vernv/Desktop/workoutlog/server/.gitignore",
+		"/C/Users/Vernv/Desktop/workoutlog/server/routes/session.js",
+		"/C/Users/Vernv/Desktop/workoutlog/server/config/constants.js",
+		"/C/Users/Vernv/Desktop/workoutlog/server/middleware/headers.js",
+		"/C/Users/Vernv/Desktop/workoutlog/client/auth.js",
+		"/C/Users/Vernv/Desktop/workoutlog/server/db.js",
+		"/C/Users/Vernv/Desktop/workoutlog/server/models/user.js",
+		"/C/Users/Vernv/Desktop/workoutlog/server/routes/user.js",
+		"/C/Users/Vernv/Desktop/workoutlog/server/.env",
+		"/C/Users/Vernv/Desktop/workoutlog/client/.gitignore",
+		"/C/Users/Vernv/Desktop/workoutlog/server/package.json",
+		"/C/Users/Vernv/Desktop/workoutlog/client/package.json",
+		"/C/Users/Vernv/Desktop/selfwork/clock/clock.html",
+		"/C/Users/Vernv/Desktop/selfwork/shooter/shooter.js",
+		"/C/Users/Vernv/Desktop/selfwork/shooter/style.css",
+		"/C/Users/Vernv/Desktop/1150_projects/friendlist/index.html",
+		"/C/Users/Vernv/Desktop/Online_Shop/index.html",
+		"/C/Users/Vernv/Desktop/test.js",
+		"/C/Users/Vernv/Downloads/Build_System.js",
+		"/C/Users/Vernv/Desktop/Online_Shop/css/stylish-portfolio.css",
+		"/C/Users/Vernv/Desktop/Online_Shop/store/index.html",
+		"/C/Users/Vernv/Desktop/jslibrary/0.05_closers.js",
+		"/C/Users/Vernv/Desktop/jslibrary/nodebasics/main.js",
+		"/C/Users/Vernv/Desktop/jslibrary/nodebasics/monster.js",
+		"/C/Users/Vernv/Desktop/jslibrary/0.01_peoplefactory.js",
+		"/C/Users/Vernv/Desktop/jslibrary/nodebasics/player.js",
+		"/C/Users/Vernv/Desktop/jslibrary/0.06_iife.js",
+		"/C/Users/Vernv/Desktop/jslibrary/Parallax/main.js",
+		"/C/Users/Vernv/Desktop/jslibrary/Parallax/Index.html",
+		"/C/Users/Vernv/Desktop/self projects/Parallex/main.js",
+		"/C/Users/Vernv/Desktop/self projects/todolist/main.js",
+		"/C/Users/Vernv/Desktop/jslibrary/jslearning/0.04_dynamicprototypepattern.js",
+		"/C/Users/Vernv/Desktop/jslibrary/jslearning/constructorpattern",
+		"/C/Users/Vernv/Desktop/jslibrary/jslearning/constructorpattern.js",
+		"/C/Users/Vernv/Desktop/jslibrary/theciv/peoplefactory.js",
+		"/C/Users/Vernv/Desktop/self projects/Style sheet practice/main.css",
+		"/C/Users/Vernv/Desktop/self projects/Style sheet practice/index.html",
+		"/C/Users/Vernv/Desktop/self projects/Style sheet practice/main.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			".list-group-item4",
+			"Mean.Js",
+			"navbar",
+			"a.navbar-brand",
+			"Mean.JS",
+			"dist",
+			"Result",
+			"results",
+			"function populate",
+			"gameOver",
+			"correctAnswer",
+			"function gameOver",
+			"function game",
+			"gameover",
+			"function gameOver",
+			"gameover",
+			"RIGHT",
+			"KEY",
+			"SPACE",
+			"col-lg-10 col-lg-offset-1 text-center",
+			"contact info",
+			"Our Services",
+			"service name",
+			"service",
+			"face",
+			"clas\"map\"",
+			"Start Bootstrap",
+			"start Bootstrap",
+			"DOWN_KEY",
+			"SPACE_KEY",
+			"SPACE",
+			"function update",
+			"#hero",
+			"ChildComponent",
+			"ChildComponentsIntro",
+			"changeStateCustomMethod",
+			"second",
+			"secondHand",
+			"    // <StateIntro />\n",
+			"ProspsIntro",
+			"@ multi main",
+			"@",
+			"./src/index",
+			"var localLogin",
+			"localStrategy",
+			"news",
+			"img.img-scope",
+			"Posted On",
+			"posted on",
+			"p",
+			">\n",
+			"Or sign up using your email",
+			"Or with your account",
+			"   \n",
+			"authentication",
+			"just one page",
+			"v-",
+			"Photo upload",
+			"journalForm.name.$",
+			"menuService",
+			"Meanjs is awesome!",
+			"Hello World!",
+			"color",
+			"Inherited from body",
+			"Inherited from",
+			"Jumbotron",
+			"@jumbotron-color",
+			"container.jumbotron",
+			"element.style",
+			"jumbotron",
+			"background",
+			"articles",
+			"logo.png",
+			"logo",
+			"logo.png",
+			"logo",
+			"navbar",
+			"favicon.ico",
+			"menuService",
+			"servi",
+			"<div class=\"modal fade\" id=\"login-modal\" role=\"dialog\">",
+			"container",
+			".deligate",
+			"history-list\").deligate",
+			"export",
+			"hidden",
+			"log",
+			"var fetchDef",
+			"$('a[data",
+			"window.WorkoutLog",
+			"window.workoutLog",
+			"<div id= \"define\"",
+			"vm.js",
+			"define",
+			"home",
+			"Definition",
+			"define",
+			"modal",
+			"setHistory",
+			"<div id=\"for",
+			"/api/login",
+			"authinticat",
+			"authenticat",
+			"authintica",
+			"authenticate",
+			"{",
+			"Aithorization",
+			"aithorization",
+			"WorkoutLog",
+			"r",
+			"display",
+			"pureple",
+			"vert",
+			"modelgear",
+			"black",
+			"my work",
+			".top",
+			".servi",
+			"portfollio",
+			"fieldset",
+			"row",
+			".row",
+			"purple",
+			"backgroun",
+			"bg",
+			"callout.jpg",
+			".jpg",
+			"img/portfolio"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"0.06_tables.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 383.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

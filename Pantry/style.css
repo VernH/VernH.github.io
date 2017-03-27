@@ -1,0 +1,15 @@
+body {
+  color: white;
+  background-color: blue;
+
+}
+
+#choose-food {
+  border: solid;
+  border-color: darkblue;
+}
+
+#choose-pref {
+  border: solid;
+  border-color: darkblue;
+}
